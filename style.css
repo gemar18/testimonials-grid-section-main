@@ -130,7 +130,7 @@ span {
 }
 
 h2 {
-    margin: 10px auto;
+    margin: 20px auto;
     text-align: left;
     font-weight: 600;
     font-size: 19px;
@@ -180,6 +180,7 @@ p {
 
 
 footer{
+    display: block;
     margin-top: 20px;
     font-size: 11px;
     text-align: center;
