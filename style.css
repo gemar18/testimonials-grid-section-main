@@ -37,6 +37,10 @@ main {
         "header  header   header navbar  aside"
         "sidebar  footer  footer footer aside";
 }
+h1{
+    font-size: 34px;
+    color: var(--ModerateViolet);
+}
 
 .grid-container {
     box-shadow: 5px 10px 10px rgba(221, 210, 210, 0.75);
@@ -180,6 +184,7 @@ p {
 
 
 footer{
+    clear: both;
     display: block;
     margin-top: 20px;
     font-size: 11px;
