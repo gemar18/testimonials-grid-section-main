@@ -38,8 +38,9 @@ main {
         "sidebar  footer  footer footer aside";
 }
 h1{
-    font-size: 34px;
+  margin-top: -10px;
     color: var(--ModerateViolet);
+    display: flex;
 }
 
 .grid-container {
@@ -186,7 +187,8 @@ p {
 footer{
     clear: both;
     display: block;
-    margin-top: 20px;
+    width: 300px;
+    margin-top: 60px;
     font-size: 11px;
     text-align: center;
 }
